@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .btn-1{
+        @apply text-30 border rounded-full px-8 py-1.5 bg-10/0 border-30 hover:text-10 hover:bg-30
+    }
+    .btn-2{
+        @apply text-10 border rounded-full px-8 py-1.5 bg-30 border-10 hover:text-30 hover:bg-10
+    }
+    .btn-3{
+        @apply text-10 border rounded-full px-8 py-1.5 bg-70 hover:border-70 hover:text-70 hover:bg-10
+    }
+    .btn-4{
+        @apply text-10 border rounded-full px-8 py-1.5 bg-80 hover:border-10 hover:text-80 hover:bg-10
+    }
+}
+
+*{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: #F9F9F9;
+    overflow-x: hidden;
+}
+
+.card-two {
+background:url('/cardImg2.png');
+background-size:cover;
+}
+
+.card-three {
+background:url('/cardImg3.png');
+background-size:cover;
+}
+
+

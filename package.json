@@ -1,0 +1,40 @@
+{
+  "name": "test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/material": "^5.11.11",
+    "@reacticons/ionicons": "^6.1.1",
+    "firebase": "^9.17.1",
+    "flowbite": "^1.6.3",
+    "flowbite-react": "^0.4.0",
+    "framer-motion": "^10.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-fast-marquee": "^1.3.5",
+    "react-router-dom": "^6.8.2",
+    "react-simple-typewriter": "^5.0.1",
+    "react-single-page-navigation": "^1.0.1",
+    "react-spinners": "^0.13.8",
+    "react-toastify": "^9.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "typescript": "^4.9.3",
+    "vite": "^4.1.0"
+  }
+}
