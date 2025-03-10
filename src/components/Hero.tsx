@@ -23,10 +23,10 @@ function Hero({ }: Props) {
             ease: 'easeInOut',
           }}
           className='md:flex flex-col justify-center'>
-          <h3 className='text-70 font-medium md:text-2xl mt-10'>23rd of March</h3>
+          <h3 className='text-70 font-medium md:text-2xl mt-10'>22nd of March</h3>
           <h1 className='uppercase text-30 font-bold text-7xl md:text-8xl' >Arduino Day</h1>
 
-          <Countdown targetDate={new Date('2023-03-24T00:00:00')} />
+          <Countdown targetDate={new Date('2024-03-22T00:00:00')} />
 
           <div>
             <Link to={'/register'}>

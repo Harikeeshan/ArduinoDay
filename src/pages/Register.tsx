@@ -157,7 +157,7 @@ function Register({ }: Props) {
                 First day, Hackathon challenge will be held for the
                 participants. The second day will include educational seminars
                 on Aurdino and speakers by experts in the field. At the end of
-                Arduino day 2023, the winners of the hackathon challenge will be
+                Arduino day 2024, the winners of the hackathon challenge will be
                 given gifts.
               </p>
 
@@ -341,7 +341,7 @@ function Register({ }: Props) {
                 {day1 && (
                   <div>
                     <h4 className={style.formLableStyle}>
-                    2023 Arduino Day Hackathon Event එක සදහා බලපොරොත්තු වු කණ්ඩායම් ප්‍රමාණය දැනටමත් 
+                    2024 Arduino Day Hackathon Event එක සදහා බලපොරොත්තු වු කණ්ඩායම් ප්‍රමාණය දැනටමත් 
                     ඉක්මවා ඇති බැවින් Hackthon තරගාවලියේ Registration කටයුතු නවත්වා ඇති බව කණගාටුවෙන් දැනුම් දී සිටිමු.<br/> <br/> 
                     නමුත් Exhibition සහා Knowledge Sharing (Day two) Event එක සදහා තවමත් ඔබට සහභාගිවීමට අවස්ථාවක් ඇති බැවින් ඒ සදහා
                      Register වන ලෙස කාරුණිකව දන්වා සිටිමු.
@@ -618,7 +618,7 @@ function Register({ }: Props) {
                 Thank You !
               </h1>
               <p className="text-center text-sm text-30 font-medium">
-                Thank you for registering for the Arduino Day 2023.
+                Thank you for registering for the Arduino Day 2024.
               </p>
               <div>
                 <Link to={"/"}>

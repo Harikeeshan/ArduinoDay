@@ -127,7 +127,7 @@ const PrivacyPolicy = (props: Props) => {
                                     Western Province, 11350,<br />
                                     Sri Lanka<br /><br />
                                     arduinocommunitysrilanka@gmail.com <br /><br />
-                                    Last Edited on 08-03-2023
+                                    Last Edited on 08-03-2024
                                 </div>
                             </div>
                         </p>

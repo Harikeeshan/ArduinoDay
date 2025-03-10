@@ -46,7 +46,7 @@ function About({ }: Props) {
                   Are you ready to unlock your creativity? <br /> adipiscing elit.
                 </h5>
                 <p className="mb-0 text-white font-light">
-                Arduino Day 2023 is just around the corner and we at arduino community srilanka are excited to bring you some 
+                Arduino Day 2024 is just around the corner and we at arduino community srilanka are excited to bring you some 
                 creative content to celebrate!  Register for hackathons, educational seminars and inspiration to help you explore 
                 the endless possibilities of this amazing platform.
                 </p>
