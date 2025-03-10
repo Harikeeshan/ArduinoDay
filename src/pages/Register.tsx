@@ -157,7 +157,7 @@ function Register({ }: Props) {
                 First day, Hackathon challenge will be held for the
                 participants. The second day will include educational seminars
                 on Aurdino and speakers by experts in the field. At the end of
-                Arduino day 2024, the winners of the hackathon challenge will be
+                Arduino day 2025, the winners of the hackathon challenge will be
                 given gifts.
               </p>
 
@@ -618,7 +618,7 @@ function Register({ }: Props) {
                 Thank You !
               </h1>
               <p className="text-center text-sm text-30 font-medium">
-                Thank you for registering for the Arduino Day 2024.
+                Thank you for registering for the Arduino Day 2025.
               </p>
               <div>
                 <Link to={"/"}>

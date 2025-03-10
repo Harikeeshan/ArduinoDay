@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 const Countdown: React.FC = () => {
-  // Set the target date for March 22, 2024, at midnight LOCAL TIME
+  // Set the target date for March 22, 2025, at midnight LOCAL TIME
   const targetDate = new Date(2025, 2, 22, 0, 0, 0); // (Month is 0-based, so 2 = March)
 
   const calculateRemainingTime = () => {

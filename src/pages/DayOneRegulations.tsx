@@ -14,7 +14,7 @@ function DayOneRegulations({ }: Props) {
           <div className=''><p className='space-y-5'>
             <div className='text-6xl sm:text-9xl text-70 font-semibold'>Day 1</div>
             <div className='text-3xl sm:text-4xl text-30 font-semibold'>Hackathon Challenge </div>
-            <div className='text-80 sm:text-lg leading-5'>First day, Hackathon challenge will be held for the participants. The second day will include educational seminars on Aurdino and speakers by experts in the field.  At the end of Arduino day 2024, the winners of the hackathon challenge will be given gifts.    </div>
+            <div className='text-80 sm:text-lg leading-5'>First day, Hackathon challenge will be held for the participants. The second day will include educational seminars on Aurdino and speakers by experts in the field.  At the end of Arduino day 2025, the winners of the hackathon challenge will be given gifts.    </div>
           </p>
           </div>
           <div className='sm:text-right '>
